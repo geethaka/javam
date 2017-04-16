@@ -15,6 +15,6 @@ public class HelloServlet extends HttpServlet {
     {
         
         PrintWriter writer = response.getWriter();
-        writer.print("Hello World");
+        writer.print("Hello World Docker");
     }
 }
